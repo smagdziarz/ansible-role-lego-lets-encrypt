@@ -14,7 +14,7 @@ Currently, "dns" and "http" challenges are supported.
 
 ## Requirements
  - Ansible 2.10.0+
- - Python21
+ - Python 3.5+
  - pip (installs dependencies if required)
 
 ## Usage
@@ -23,7 +23,7 @@ Add this role to your requirements file:
 
 ```
 - src: "https://github.com/sitewards/ansible-role-lego-lets-encrypt"
-  version: "3.1.0"
+  version: "4.0.0"
   name: "sitewards.lego-lets-encrypt"
 ```
 
