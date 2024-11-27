@@ -23,7 +23,7 @@ Add this role to your requirements file:
 
 ```
 - src: "https://github.com/sitewards/ansible-role-lego-lets-encrypt"
-  version: "3.0.0"
+  version: "3.1.0"
   name: "sitewards.lego-lets-encrypt"
 ```
 
