@@ -8,7 +8,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Added minimal python3 dependency for managed nodes
 
-- managed nodes require python version of at least 3.5
+- managed nodes require python version of at least 3.5 (
+  see: https://docs.ansible.com/ansible/2.9/dev_guide/developing_python_3.html#minimum-version-of-python-3-x-and-python-2-x
+  and https://docs.ansible.com/ansible/latest/reference_appendices/release_and_maintenance.html#ansible-core-support-matrix)
 
 ## 3.0.0
 
